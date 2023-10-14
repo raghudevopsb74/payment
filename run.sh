@@ -1,1 +1,1 @@
-/usr/local/bin/uwsgi --ini /app/payment.ini
+uwsgi --ini /app/payment.ini
